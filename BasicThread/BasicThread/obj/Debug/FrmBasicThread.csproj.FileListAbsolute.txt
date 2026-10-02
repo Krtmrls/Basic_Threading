@@ -1,0 +1,10 @@
+C:\Users\moral\source\repos\BasicThread\BasicThread\bin\Debug\BasicThread.exe.config
+C:\Users\moral\source\repos\BasicThread\BasicThread\bin\Debug\BasicThread.exe
+C:\Users\moral\source\repos\BasicThread\BasicThread\bin\Debug\BasicThread.pdb
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\FrmBasicThread.csproj.AssemblyReference.cache
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\BasicThread.FrmBasicThread.resources
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\BasicThread.Properties.Resources.resources
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\FrmBasicThread.csproj.GenerateResource.cache
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\FrmBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\BasicThread.exe
+C:\Users\moral\source\repos\BasicThread\BasicThread\obj\Debug\BasicThread.pdb
